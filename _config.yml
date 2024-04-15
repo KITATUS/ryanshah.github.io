@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ryan Shah is an Unreal Engine focused Technical and Game Designer with over a decade of experience in the AAA games industry.
 twitter_username: KITATUSxFriends
 github_username: KITATUS
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: false
 
 # Build settings
