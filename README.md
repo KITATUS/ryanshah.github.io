@@ -1,27 +1,22 @@
-# Minimal Mistakes remote theme starter
+# Who Is Ryan Shah?
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+As a seasoned Technical Designer with an engineering background, I skillfully blend design insight with technical prowess, primarily through my work with Unreal Engine and Unreal Engine based projects. My transition from engineering to game design has enriched my capabilities, allowing me to quickly devise creative solutions for complex challenges.
 
-Contains basic configuration to get you a site with:
+Thriving in high-pressure situations, I excel at addressing complex issues and rapidly developing solutions, driven by my technical history and my deep knowledge of all things design.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+My commitment to education is a key defining part of my career. I continue to actively engage in mentoring and teaching the next generation, aiming to inspire and cultivate creativity in the next generation of game developers.
 
 ---
 
-## Troubleshooting
+## My Specializations
+- Unreal Engine Mastery
+- - Deeply skilled in Unreal Engine, driving cutting edge game development with extensive knowledge of the engine.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+- Technical Design
+- - Consistently excelling in technical design on many large high-profile projects, adeptly addressing and preempting mission-critical issues.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- Tools Dev / Workflow Optimization
+- - Pioneering tools development and workflow enhancements to streamline AAA game production.
+
+- Educational Endevaours
+- - Lifelong dedication to educating and inspiring the future generations in all aspects of the world of game development.
