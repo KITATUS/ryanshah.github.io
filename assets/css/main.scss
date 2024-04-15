@@ -7,39 +7,3 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.specialization-card {
-    position: relative;
-    background-color: #222; /* Dark background */
-    color: white; /* White text color */
-    padding: 20px; /* Spacing inside the card */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    max-width: 400px; /* Adjust the max width as needed */
-    margin: auto; /* Center the card in a container */
-  }
-  
-  .specialization-card h3 {
-    color: #9f7aea; /* Purple color for the title */
-    margin: 0 0 10px 0; /* Spacing below the title */
-    font-size: 1.5em; /* Larger text for the title */
-  }
-  
-  .specialization-card p {
-    margin: 0; /* No margin for the paragraph */
-    line-height: 1.6; /* Space between lines */
-    font-size: 1em; /* Size of the paragraph text */
-  }
-  
-  .specialization-card-icon {
-    width: 30px; /* Width of the SVG icon */
-    height: auto; /* Keep the aspect ratio */
-    position: absolute;
-    top: 15px;
-    left: 15px;
-  }
-  
