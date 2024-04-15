@@ -1,3 +1,7 @@
+Ryan Shah - Technical / Game Designer
+- **Email**: [ryan.shah@midaf.tech](mailto:ryan.shah@midaf.tech)
+- **Location**: Nottingham, United Kingdom
+---
 # Who Is Ryan Shah?
 
 As a seasoned Technical Designer with an engineering background, I skillfully blend design insight with technical prowess, primarily through my work with Unreal Engine and Unreal Engine based projects. My transition from engineering to game design has enriched my capabilities, allowing me to quickly devise creative solutions for complex challenges.
@@ -10,7 +14,7 @@ My commitment to education is a key defining part of my career. I continue to ac
 
 ## My Specializations
 ### Unreal Engine Mastery
-Deeply skilled in Unreal Engine, driving cutting edge game development with extensive knowledge of the engine.
+Deeply skilled in Unreal Engine, driving cutting-edge game development with extensive knowledge of the engine.
 
 ### Technical Design
 Consistently excelling in technical design on many large high-profile projects, adeptly addressing and preempting mission-critical issues.
@@ -19,4 +23,4 @@ Consistently excelling in technical design on many large high-profile projects, 
 Pioneering tools development and workflow enhancements to streamline AAA game production.
 
 ### Educational Endevaours
-Lifelong dedication to educating and inspiring the future generations in all aspects of the world of game development.
+Lifelong dedication to educating and inspiring future generations in all aspects of the world of game development.
