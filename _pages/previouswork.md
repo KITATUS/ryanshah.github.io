@@ -49,9 +49,9 @@ I've worked on some of the biggest games of this industry...
   </div>
 </div>
 
-+ Many More!
+... and many more!
 
-And with the biggest companies too!
+I've worked with the biggest companies too!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1 0 25%; margin: 2.5px;">
@@ -86,4 +86,4 @@ And with the biggest companies too!
   </div>
 </div>
 
-+ Many More!
+... and many more!
