@@ -11,9 +11,3 @@ Thriving in high-pressure situations, I excel at addressing complex issues and r
 My commitment to education is a key defining part of my career. I continue to actively engage in mentoring and teaching the next generation, aiming to inspire and cultivate creativity in the next generation of game developers.
 
 # My Specializations
-
-<div class="specialization-card">
-  <h3>Unreal Engine Mastery</h3>
-  <p>Deeply skilled in Unreal Engine, driving cutting edge game development with extensive knowledge of the engine.</p>
-</div>
-
