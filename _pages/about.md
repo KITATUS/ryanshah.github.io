@@ -4,6 +4,9 @@ title: "Who Is Ryan Shah?"
 classes: wide
 ---
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/T_Header.png)
+{: .full}
+
 As a seasoned Technical Designer with an engineering background, I skillfully blend design insight with technical prowess, primarily through my work with Unreal Engine and Unreal Engine based projects. My transition from engineering to game design has enriched my capabilities, allowing me to quickly devise creative solutions for complex challenges.
 
 Thriving in high-pressure situations, I excel at addressing complex issues and rapidly developing solutions, driven by my technical history and my deep knowledge of all things design.
