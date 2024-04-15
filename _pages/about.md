@@ -1,8 +1,13 @@
 ---
 permalink: /about/
-title: "About"
+title: "Who Is Ryan Shah?"
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+As a seasoned Technical Designer with an engineering background, I skillfully blend design insight with technical prowess, primarily through my work with Unreal Engine and Unreal Engine based projects. My transition from engineering to game design has enriched my capabilities, allowing me to quickly devise creative solutions for complex challenges.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Thriving in high-pressure situations, I excel at addressing complex issues and rapidly developing solutions, driven by my technical history and my deep knowledge of all things design.
+
+My commitment to education is a key defining part of my career. I continue to actively engage in mentoring and teaching the next generation, aiming to inspire and cultivate creativity in the next generation of game developers.
+
+# My Specializations
