@@ -56,13 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ryan Shah"
   avatar : "/assets/images/bio-photo.png"
   bio    : "Ryan Shah is an Unreal Engine focused Technical and Game Designer with over a decade of experience in the AAA games industry."
   links:
-    - label: "Education Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://kitatusandfriends.co.uk/"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/KITATUSxFriends"
