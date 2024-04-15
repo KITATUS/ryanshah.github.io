@@ -2,24 +2,6 @@
 permalink: /previouswork/
 title: "Previous Work"
 classes: wide
-
-gallery2:
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/2K.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/sega.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/xbox.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/disney.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/google.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/gearbox.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/sds.png
-    - url: /assets/images/comapnies/.png
-    image_path: /assets/images/comapnies/epic_games.png
 ---
 
 I've worked on some of the biggest games of this industry...
