@@ -18,11 +18,6 @@ I've worked on some of the biggest games of this industry...
     </a>
   </div>
   <div style="flex: 1 0 20%; margin: 2.5px;">
-    <a href="{{ site.baseurl }}/assets/images/games/AAA.png">
-      <img src="{{ site.baseurl }}/assets/images/games/AAA.png" style="width: 100%; border-radius: 10px;">
-    </a>
-  </div>
-  <div style="flex: 1 0 20%; margin: 2.5px;">
     <a href="{{ site.baseurl }}/assets/images/games/fortnite.png">
       <img src="{{ site.baseurl }}/assets/images/games/fortnite.png" style="width: 100%; border-radius: 10px;">
     </a>
@@ -45,11 +40,6 @@ I've worked on some of the biggest games of this industry...
   <div style="flex: 1 0 20%; margin: 2.5px;">
     <a href="{{ site.baseurl }}/assets/images/games/firewall.png">
       <img src="{{ site.baseurl }}/assets/images/games/firewall.png" style="width: 100%; border-radius: 10px;">
-    </a>
-  </div>
-  <div style="flex: 1 0 20%; margin: 2.5px;">
-    <a href="{{ site.baseurl }}/assets/images/games/game-of-thrones.png">
-      <img src="{{ site.baseurl }}/assets/images/games/game-of-thrones.png" style="width: 100%; border-radius: 10px;">
     </a>
   </div>
   <div style="flex: 1 0 20%; margin: 2.5px;">
@@ -92,11 +82,6 @@ And with the biggest companies...
   <div style="flex: 1 0 25%; margin: 2.5px;">
     <a href="{{ site.baseurl }}/assets/images/companies/gearbox.png">
       <img src="{{ site.baseurl }}/assets/images/companies/gearbox.png" style="width: 100%; border-radius: 10px;">
-    </a>
-  </div>
-  <div style="flex: 1 0 25%; margin: 2.5px;">
-    <a href="{{ site.baseurl }}/assets/images/companies/sds.png">
-      <img src="{{ site.baseurl }}/assets/images/companies/sds.png" style="width: 100%; border-radius: 10px;">
     </a>
   </div>
 </div>
