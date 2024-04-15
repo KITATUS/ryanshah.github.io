@@ -7,7 +7,7 @@ classes: wide
 I've worked on some of the biggest games of this industry...
 
 <figure class="third">
-  <a href="/assets/images/games/AAA.png">
+  <a href="{{ site.baseurl }}/assets/images/games/AAA.png">
   <img src="/assets/images/games/AAA.png"></a>
 
    <a href="/assets/images/games/AAA.png">
