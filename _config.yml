@@ -61,7 +61,7 @@ author:
   bio    : "Ryan Shah is an Unreal Engine focused Technical and Game Designer with over a decade of experience in the AAA games industry."
   links:
     - label: "LinkedIn"
-      icon: "fab fa fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/ryan-shah-ue/"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
