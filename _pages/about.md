@@ -33,4 +33,5 @@ My commitment to education is a key defining part of my career. I continue to ac
 > **🎓 Educational Endeavours**
 >
 > Lifelong dedication to educating and inspiring the future generations in all aspects of the world of game development.
+>
 > ---
