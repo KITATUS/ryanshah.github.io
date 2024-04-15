@@ -49,9 +49,9 @@ I've worked on some of the biggest games of this industry...
   </div>
 </div>
 
-<figcaption>+ Many More!</figcaption>
++ Many More!
 
-And with the biggest companies...
+And with the biggest companies too!
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1 0 25%; margin: 2.5px;">
@@ -85,3 +85,5 @@ And with the biggest companies...
     </a>
   </div>
 </div>
+
++ Many More!
