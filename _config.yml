@@ -17,8 +17,8 @@ title: Ryan Shah - Technical / Game Designer
 email: ryan.shah@midaf.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Ryan Shah is an Unreal Engine focused Technical and Game Designer with over a decade of experience in the AAA games industry.
-twitter_username: username
-github_username: username
+twitter_username: KITATUSxFriends
+github_username: KITATUS
 minimal_mistakes_skin: dark
 search: false
 
@@ -84,10 +84,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
