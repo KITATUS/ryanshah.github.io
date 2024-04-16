@@ -38,3 +38,9 @@ My commitment to education is a key defining part of my career. I continue to ac
 > Lifelong dedication to educating and inspiring the future generations in all aspects of the world of game development.
 >
 > ---
+
+### Unreal Engine
+My professional journey with Unreal Engine began in 2014 and has since become a cornerstone of my career. Throughout the years of working directly with the engine, I have worked both directly and indirectly with Epic Games; working on their titles and adding additional improvements to the engine. I have a vast knowledge of many facets of the engine, including bleeding edge features. I have contributed directly to the code base of the engine and was one of the original collaborators on the marketplace submission guidelines. I have written multiple published books on the engine and I pride my educational endevaours with the engine. I was one of the first recipients of an Unreal Engine megagrant in appreciation to my educational efforts. I live and breathe Unreal Engine and I pride myself on my vast knowledge of the inner works of the engine and the best practices to make the most out of such a powerful tool.
+
+### Passion for Education
+At the heart of my professional ethos is a profound commitment to education. I have authored several books distributed globally, including in China, sharing my knowledge of Unreal Engine and game design. My educational website, featuring Unreal projects, has reached audiences worldwide, consuming well over 100TB of bandwidth with thousands of downloads of my educational resources. My ongoing participation in industry events and talks reflects my dedication to inspiring and educating aspiring game developers, guiding them towards innovation and excellence in their own careers.
