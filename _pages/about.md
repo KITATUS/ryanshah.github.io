@@ -42,7 +42,9 @@ My commitment to education is a key defining part of my career. I continue to ac
 ### Unreal Engine
 My professional journey with Unreal Engine began in 2014 and has since become a cornerstone of my career. Throughout the years of working directly with the engine, I have worked both directly and indirectly with Epic Games; working on their titles and adding additional improvements to the engine. 
 
-I have a vast knowledge of many facets of the engine, including bleeding edge features. I have contributed directly to the code base of the engine and was one of the original collaborators on the marketplace submission guidelines. I have written multiple published books on the engine and I am incredibly proud of my educational endevaours with the engine. I was one of the first recipients of an Unreal Engine megagrant in appreciation to my educational efforts. 
+I have a vast knowledge of many facets of the engine, including bleeding edge features. I have contributed directly to the code base of the engine and was one of the original collaborators on the marketplace submission guidelines. 
+
+I have written multiple published books on the engine and I am incredibly proud of my educational endevaours with the engine. I was one of the first recipients of an Unreal Engine megagrant in appreciation to my educational efforts. 
 
 I live and breathe Unreal Engine and I pride myself on my vast knowledge of the inner works of the engine and the best practices to make the most out of such a powerful tool.
 
