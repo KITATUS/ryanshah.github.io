@@ -58,21 +58,16 @@ My commitment to education is a key defining part of my career. I continue to ac
 ---
 
 # What People Are Saying About Me...
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
-  <!-- Testimonial 1 -->
-  <div style="flex: 1 1 calc(50% - 20px); background: #fff; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
-    <img src="path_to_image1" alt="Person 1" style="width: 100px; height: 100px; border-radius: 50%; border: 3px solid #eee; margin-bottom: 15px;">
-    <h3 style="margin: 0;">PERSON NAME</h3>
-    <p style="font-style: italic; color: grey; font-size: smaller;">role</p>
-    <p style="font-size: smaller;">"quote here quote here quote here"</p>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 48%; background: #708090; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <img src="path_to_image" alt="Person Name" style="width: 80px; height: 80px; border-radius: 50%;">
+      <div>
+        <h3>PERSON NAME</h3>
+        <p style="font-style: italic; color: grey; font-size: smaller;">role</p>
+        <p>"quote here quote here quote here"</p>
+      </div>
+    </div>
   </div>
-  <!-- Testimonial 2 -->
-  <div style="flex: 1 1 calc(50% - 20px); background: #fff; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
-    <img src="path_to_image2" alt="Person 2" style="width: 100px; height: 100px; border-radius: 50%; border: 3px solid #eee; margin-bottom: 15px;">
-    <h3 style="margin: 0;">PERSON NAME</h3>
-    <p style="font-style: italic; color: grey; font-size: smaller;">role</p>
-    <p style="font-size: smaller;">"quote here quote here quote here"</p>
-  </div>
-  <!-- Repeat the blocks above for testimonials 3 and 4 -->
+  <!-- Repeat the above div block three more times for the other team members -->
 </div>
