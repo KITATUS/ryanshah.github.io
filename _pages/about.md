@@ -65,7 +65,7 @@ My commitment to education is a key defining part of my career. I continue to ac
       <div>
         <h3>PERSON NAME</h3>
         <p style="font-style: italic; color: grey; font-size: smaller;">role</p>
-        <p>"quote here quote here quote here"</p>
+        <p>"All hybrid profiles tend to be one-man orchestras, and Mr Shah excels at that premise. In just some months I saw him collaborate with tech artists in animation, implementing whole screens and widgets in UMG, doing research and code examples for engineers or replacing whole sound systems, Ryan can be found goblin mode in every single corner of the office, plotting to help the team achieve the next big thing."</p>
       </div>
     </div>
   </div>
