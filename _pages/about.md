@@ -16,6 +16,7 @@ My commitment to education is a key defining part of my career. I continue to ac
 # My Specializations
 
 > **🛠️ Unreal Engine Mastery**
+>
 > Deeply skilled in Unreal Engine, driving cutting-edge game development with extensive knowledge of the engine.
 >
 > <details>
@@ -28,17 +29,22 @@ My commitment to education is a key defining part of my career. I continue to ac
 > </div>
 > </details>
 >
+> ---
+> 
 > **📐 Technical Design**
+>
 > Consistently excelling in technical design on many large high-profile projects, adeptly addressing and preempting mission-critical issues.
 >
 > ---
 >
-**🔧 Tools Dev / Workflow Optimization**
+> **🔧 Tools Dev / Workflow Optimization**
+>
 > Pioneering tools development and workflow enhancements to streamline AAA game production.
 >
 > ---
 > 
 > **🎓 Educational Endeavours**
+>
 > Lifelong dedication to educating and inspiring the future generations in all aspects of the world of game development.
 >
 > <details>
