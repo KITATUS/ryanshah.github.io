@@ -20,7 +20,7 @@ My commitment to education is a key defining part of my career. I continue to ac
 > Deeply skilled in Unreal Engine, driving cutting-edge game development with extensive knowledge of the engine.
 >
 > <details>
-> <summary><strong>More details</strong></summary>
+> <summary style="font-size: 0.9em;"><strong>More details</strong></summary>
 > <div id="moreUe">
 > <p>My professional journey with Unreal Engine began in 2014 and has since become a cornerstone of my career. Throughout the years of working directly with the engine, I have worked both directly and indirectly with Epic Games; working on their titles and adding additional improvements to the engine.</p>
 > <p>I have a vast knowledge of many facets of the engine, including bleeding edge features. I have contributed directly to the code base of the engine and was one of the original collaborators on the marketplace submission guidelines.</p>
@@ -48,7 +48,7 @@ My commitment to education is a key defining part of my career. I continue to ac
 > Lifelong dedication to educating and inspiring the future generations in all aspects of the world of game development.
 >
 > <details>
-> <summary><strong>More details</strong></summary>
+> <summary style="font-size: 0.9em;"><strong>More details</strong></summary>
 > <div id="moreEdu">
 > <p>Education is the core of my career. I've written numerous books that have found audiences worldwide, including in China, enriching knowledge of Unreal Engine and game design.</p>
 > <p>My previous educational website served as a significant resource, featuring Unreal projects that have attracted a global audience and used well over 100TB of bandwidth, underscoring the extensive reach and impact of these materials.</p>
