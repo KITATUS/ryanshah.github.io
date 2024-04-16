@@ -61,7 +61,6 @@ My commitment to education is a key defining part of my career. I continue to ac
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
   <div style="flex: 0 0 48%; background: #708090; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <div style="display: flex; align-items: center; gap: 20px;">
-      <img src="{{ site.baseurl }}/assets/images/testimonials/T_Header.jpg" alt="Ismael Barbeito Vázquez" style="max-width: 100%; max-height: 100%; border-radius: 50%; object-fit: cover; width: 80px; height: 80px;">
       <div>
         <h3>Ismael Barbeito Vázquez</h3>
         <p style="font-style: italic; color: LightGray; font-size: smaller;">Technical Designer, The Multiplayer Group</p>
