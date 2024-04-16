@@ -64,8 +64,8 @@ My commitment to education is a key defining part of my career. I continue to ac
       <img src="path_to_image" alt="Person Name" style="width: 80px; height: 80px; border-radius: 50%;">
       <div>
         <h3>PERSON NAME</h3>
-        <p style="font-style: italic; color: SlateBlue; font-size: smaller;">role</p>
-        <p>"All hybrid profiles tend to be one-man orchestras, and Mr Shah excels at that premise. In just some months I saw him collaborate with tech artists in animation, implementing whole screens and widgets in UMG, doing research and code examples for engineers or replacing whole sound systems, Ryan can be found goblin mode in every single corner of the office, plotting to help the team achieve the next big thing."</p>
+        <p style="font-style: italic; color: LightGray; font-size: smaller;">role</p>
+        <p style="font-style: italic; font-size: x-small;">"All hybrid profiles tend to be one-man orchestras, and Mr Shah excels at that premise. In just some months I saw him collaborate with tech artists in animation, implementing whole screens and widgets in UMG, doing research and code examples for engineers or replacing whole sound systems, Ryan can be found goblin mode in every single corner of the office, plotting to help the team achieve the next big thing."</p>
       </div>
     </div>
   </div>
