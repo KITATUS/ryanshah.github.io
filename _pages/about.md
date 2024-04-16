@@ -61,10 +61,10 @@ My commitment to education is a key defining part of my career. I continue to ac
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
   <div style="flex: 0 0 48%; background: #708090; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <div style="display: flex; align-items: center; gap: 20px;">
-      <img src="path_to_image" alt="Person Name" style="width: 80px; height: 80px; border-radius: 50%;">
+      <img src="{{ site.baseurl }}/assets/images/testimonials/T_Header.jpg" alt="Ismael Barbeito Vázquez" style="max-width: 100%; max-height: 100%; border-radius: 50%; object-fit: cover; width: 80px; height: 80px;">
       <div>
-        <h3>PERSON NAME</h3>
-        <p style="font-style: italic; color: LightGray; font-size: smaller;">role</p>
+        <h3>Ismael Barbeito Vázquez</h3>
+        <p style="font-style: italic; color: LightGray; font-size: smaller;">Technical Designer, The Multiplayer Group</p>
         <p style="font-style: italic; font-size: x-small;">"All hybrid profiles tend to be one-man orchestras, and Mr Shah excels at that premise. In just some months I saw him collaborate with tech artists in animation, implementing whole screens and widgets in UMG, doing research and code examples for engineers or replacing whole sound systems, Ryan can be found goblin mode in every single corner of the office, plotting to help the team achieve the next big thing."</p>
       </div>
     </div>
