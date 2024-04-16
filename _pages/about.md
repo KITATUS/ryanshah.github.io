@@ -56,3 +56,18 @@ My commitment to education is a key defining part of my career. I continue to ac
 > </div>
 > </details>
 ---
+
+# What People Are Saying About Me...
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 48%; background: #fff; border-radius: 15px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div style="display: flex; align-items: center; gap: 20px;">
+      <img src="path_to_image" alt="Person Name" style="width: 80px; height: 80px; border-radius: 50%;">
+      <div>
+        <h3>PERSON NAME</h3>
+        <p style="font-style: italic; color: grey; font-size: smaller;">role</p>
+        <p>"quote here quote here quote here"</p>
+      </div>
+    </div>
+  </div>
+  <!-- Repeat the above div block three more times for the other team members -->
+</div>
