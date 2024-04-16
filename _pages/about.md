@@ -63,7 +63,7 @@ My commitment to education is a key defining part of my career. I continue to ac
     <div style="display: flex; align-items: center; gap: 20px;">
       <div>
         <h3 style="margin-top: 0; font-size: 1.5em;">Ismael Barbeito Vázquez</h3>
-        <p style="font-style: italic; color: LightGray; font-size: smaller;">Technical Designer, The Multiplayer Group</p>
+        <p style="font-style: italic; color: LightGray; font-size: x-small;">Technical Designer, The Multiplayer Group</p>
         <p style="font-style: italic; font-size: smaller;">"All hybrid profiles tend to be one-man orchestras, and Mr Shah excels at that premise. In just some months I saw him collaborate with tech artists in animation, implementing whole screens and widgets in UMG, doing research and code examples for engineers or replacing whole sound systems, Ryan can be found goblin mode in every single corner of the office, plotting to help the team achieve the next big thing."</p>
       </div>
     </div>
