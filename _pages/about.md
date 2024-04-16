@@ -40,7 +40,15 @@ My commitment to education is a key defining part of my career. I continue to ac
 > ---
 
 ### Unreal Engine
-My professional journey with Unreal Engine began in 2014 and has since become a cornerstone of my career. Throughout the years of working directly with the engine, I have worked both directly and indirectly with Epic Games; working on their titles and adding additional improvements to the engine. I have a vast knowledge of many facets of the engine, including bleeding edge features. I have contributed directly to the code base of the engine and was one of the original collaborators on the marketplace submission guidelines. I have written multiple published books on the engine and I am incredibly proud of my educational endevaours with the engine. I was one of the first recipients of an Unreal Engine megagrant in appreciation to my educational efforts. I live and breathe Unreal Engine and I pride myself on my vast knowledge of the inner works of the engine and the best practices to make the most out of such a powerful tool.
+My professional journey with Unreal Engine began in 2014 and has since become a cornerstone of my career. Throughout the years of working directly with the engine, I have worked both directly and indirectly with Epic Games; working on their titles and adding additional improvements to the engine. 
+
+I have a vast knowledge of many facets of the engine, including bleeding edge features. I have contributed directly to the code base of the engine and was one of the original collaborators on the marketplace submission guidelines. I have written multiple published books on the engine and I am incredibly proud of my educational endevaours with the engine. I was one of the first recipients of an Unreal Engine megagrant in appreciation to my educational efforts. 
+
+I live and breathe Unreal Engine and I pride myself on my vast knowledge of the inner works of the engine and the best practices to make the most out of such a powerful tool.
 
 ### Passion for Education
-Education is the core of my career. I've written numerous books that have found audiences worldwide, including in China, enriching knowledge of Unreal Engine and game design. My previous educational website served as a significant resource, featuring Unreal projects that have attracted a global audience and used well over 100TB of bandwidth, underscoring the extensive reach and impact of these materials. Regularly engaging in industry talks and events, I am committed to inspiring and mentoring the next generation of game developers, aiming to steer them towards innovative and outstanding practices in their careers.
+Education is the core of my career. I've written numerous books that have found audiences worldwide, including in China, enriching knowledge of Unreal Engine and game design. 
+
+My previous educational website served as a significant resource, featuring Unreal projects that have attracted a global audience and used well over 100TB of bandwidth, underscoring the extensive reach and impact of these materials. 
+
+Regularly engaging in industry talks and events, I am committed to inspiring and mentoring the next generation of game developers, aiming to steer them towards innovative and outstanding practices in their careers.
