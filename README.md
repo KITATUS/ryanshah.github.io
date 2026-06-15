@@ -1,26 +1,41 @@
-Ryan Shah - Technical / Game Designer
-- **Email**: [ryan.shah@midaf.tech](mailto:ryan.shah@midaf.tech)
-- **Location**: Nottingham, United Kingdom
----
-# Who Is Ryan Shah?
+# ryanshah.co.uk
 
-As a seasoned Technical Designer with an engineering background, I skillfully blend design insight with technical prowess, primarily through my work with Unreal Engine and Unreal Engine based projects. My transition from engineering to game design has enriched my capabilities, allowing me to quickly devise creative solutions for complex challenges.
+Personal site for Ryan Shah — Lead Technical Designer.
 
-Thriving in high-pressure situations, I excel at addressing complex issues and rapidly developing solutions, driven by my technical history and my deep knowledge of all things design.
+A self-contained static site (no build step). Served via GitHub Pages on the
+custom domain [ryanshah.co.uk](https://ryanshah.co.uk) (see `CNAME`).
 
-My commitment to education is a key defining part of my career. I continue to actively engage in mentoring and teaching the next generation, aiming to inspire and cultivate creativity in the next generation of game developers.
+## Structure
 
----
+| File / dir    | Purpose                                          |
+| ------------- | ------------------------------------------------ |
+| `index.html`  | Entry point; mounts the app into `#app`          |
+| `app.js`      | Renders the UI from the data and handles routing |
+| `data.js`     | All site content (copy, links, projects)         |
+| `styles.css`  | Styles                                           |
+| `assets/`     | Images (key art, headshot, OG card)              |
+| `assets/icons/` | Generated favicons / PWA icons                 |
+| `favicon.ico` | Multi-resolution favicon (16/32/48)              |
+| `site.webmanifest` | PWA manifest (name, icons, theme)          |
+| `robots.txt` / `sitemap.xml` | Search-engine indexing            |
+| `CNAME`       | Custom domain for GitHub Pages                   |
+| `.nojekyll`   | Tells GitHub Pages to skip Jekyll and serve as-is|
 
-## My Specializations
-### Unreal Engine Mastery
-Deeply skilled in Unreal Engine, driving cutting-edge game development with extensive knowledge of the engine.
+SEO/social metadata (Open Graph, Twitter card, JSON-LD `Person`/`WebSite`,
+canonical, theme-color) lives in the `<head>` of `index.html`. The favicons and
+the `assets/og-image.png` social card are generated from the key-art images — to
+regenerate, re-crop with ImageMagick (`magick`).
 
-### Technical Design
-Consistently excelling in technical design on many large high-profile projects, adeptly addressing and preempting mission-critical issues.
+## Local preview
 
-### Tools Dev / Workflow Optimization
-Pioneering tools development and workflow enhancements to streamline AAA game production.
+No build needed — serve the folder with any static server:
 
-### Educational Endevaours
-Lifelong dedication to educating and inspiring future generations in all aspects of the world of game development.
+```sh
+python -m http.server 8000
+# then open http://localhost:8000
+```
+
+## Deploy
+
+GitHub Pages serves the repository root. Push to the default branch and Pages
+publishes automatically.

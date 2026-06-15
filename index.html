@@ -1,16 +1,90 @@
----
-layout: null
----
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="refresh" content="0; url={{ '/about' | relative_url }}" />
-  <title>Redirecting...</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Ryan Shah — Lead Technical Designer</title>
+<meta name="description" content="Ryan Shah is a Lead Technical Designer with over a decade in AAA games and Unreal Engine. Engineer-brained, designer-hearted, slightly feral." />
+<link rel="canonical" href="https://ryanshah.co.uk/" />
+<meta name="author" content="Ryan Shah" />
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+<meta name="theme-color" content="#0a0810" />
+<meta name="color-scheme" content="dark" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Ryan Shah" />
+<meta property="og:title" content="Ryan Shah — Lead Technical Designer" />
+<meta property="og:description" content="Over a decade in AAA games and Unreal Engine. Engineer-brained, designer-hearted, slightly feral." />
+<meta property="og:url" content="https://ryanshah.co.uk/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:image" content="https://ryanshah.co.uk/assets/og-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Ryan Shah — Lead Technical Designer" />
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@KITATUSxFriends" />
+<meta name="twitter:creator" content="@KITATUSxFriends" />
+<meta name="twitter:title" content="Ryan Shah — Lead Technical Designer" />
+<meta name="twitter:description" content="Over a decade in AAA games and Unreal Engine. Engineer-brained, designer-hearted, slightly feral." />
+<meta name="twitter:image" content="https://ryanshah.co.uk/assets/og-image.png" />
+<meta name="twitter:image:alt" content="Ryan Shah — Lead Technical Designer" />
+
+<!-- Icons -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png" />
+<link rel="manifest" href="/site.webmanifest" />
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="styles.css" />
+
+<!-- Structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://ryanshah.co.uk/#website",
+      "url": "https://ryanshah.co.uk/",
+      "name": "Ryan Shah",
+      "description": "Ryan Shah — Lead Technical Designer.",
+      "inLanguage": "en-GB",
+      "publisher": { "@id": "https://ryanshah.co.uk/#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://ryanshah.co.uk/#person",
+      "name": "Ryan Shah",
+      "url": "https://ryanshah.co.uk/",
+      "image": "https://ryanshah.co.uk/assets/headshot.png",
+      "jobTitle": "Lead Technical Designer",
+      "description": "Lead Technical Designer with over a decade in AAA games and Unreal Engine.",
+      "email": "mailto:ryan.shah@midaf.tech",
+      "worksFor": { "@type": "Organization", "name": "Mid AF Technologies" },
+      "knowsAbout": ["Unreal Engine", "Game Design", "Technical Design", "Tools Development", "AAA Games"],
+      "sameAs": [
+        "https://www.linkedin.com/in/ryan-shah-ue/",
+        "https://github.com/KITATUS",
+        "https://twitter.com/KITATUSxFriends"
+      ]
+    }
+  ]
+}
+</script>
 </head>
 <body>
-  If you are not redirected, <a href="{{ '/about' | relative_url }}">click here</a>.
+  <div id="app"></div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
