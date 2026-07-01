@@ -40,11 +40,15 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png" />
 <link rel="manifest" href="/site.webmanifest" />
 
-<!-- Fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="styles.css" />
+<!-- Fonts (self-hosted, latin subset) -->
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/oswald-latin-var.woff2" crossorigin />
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/poppins-400.woff2" crossorigin />
+<link rel="preload" as="style" href="/styles.css" />
+<link rel="stylesheet" href="/styles.css" />
+
+<!-- App scripts: preload so they fetch immediately (content is JS-rendered) -->
+<link rel="preload" as="script" href="/data.js" />
+<link rel="preload" as="script" href="/app.js" />
 
 <!-- Structured data -->
 <script type="application/ld+json">
@@ -84,7 +88,7 @@
 <body>
   <div id="app"></div>
 
-  <script src="data.js"></script>
-  <script src="app.js"></script>
+  <script src="/data.js"></script>
+  <script src="/app.js"></script>
 </body>
 </html>

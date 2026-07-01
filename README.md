@@ -13,7 +13,8 @@ custom domain [ryanshah.co.uk](https://ryanshah.co.uk) (see `CNAME`).
 | `app.js`      | Renders the UI from the data and handles routing |
 | `data.js`     | All site content (copy, links, projects)         |
 | `styles.css`  | Styles                                           |
-| `assets/`     | Images (key art, headshot, OG card)              |
+| `assets/`     | Images (key art, headshot, OG card) — WebP + PNG |
+| `assets/fonts/` | Self-hosted Oswald + Poppins (latin woff2)     |
 | `assets/icons/` | Generated favicons / PWA icons                 |
 | `favicon.ico` | Multi-resolution favicon (16/32/48)              |
 | `site.webmanifest` | PWA manifest (name, icons, theme)          |
@@ -39,3 +40,17 @@ python -m http.server 8000
 
 GitHub Pages serves the repository root. Push to the default branch and Pages
 publishes automatically.
+
+## Performance notes
+
+- **Images** are served as resized WebP (art ~900px, headshot 320px) with the
+  original PNGs kept as `<picture>` / `image-set()` fallbacks. Regenerate with
+  ImageMagick, e.g. `magick art-about.png -resize 900x900 -quality 80 art-about.webp`.
+- **Fonts** are self-hosted (latin subset woff2) instead of Google Fonts, which
+  removes an external origin and the render-blocking font CSS. Oswald ships as a
+  single variable woff2 (weights 300–700); Poppins is per-weight (400 + 500).
+- `data.js` / `app.js` are `<link rel="preload" as="script">`-ed in the `<head>`
+  so they fetch immediately rather than being discovered at end-of-body.
+- **Caching:** GitHub Pages caps `Cache-Control` at ~10 min and offers no header
+  control, so PageSpeed's "efficient cache lifetimes" finding can't be fixed
+  directly — it's mitigated by the large payload reductions above.

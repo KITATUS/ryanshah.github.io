@@ -167,7 +167,10 @@
     const m = S.menu[i];
     const html = `
       <div class="preview-art">
-        <img class="art-img" src="${m.img}" alt="" style="object-position:${m.pos || '50% 35%'}" />
+        <picture>
+          <source type="image/webp" srcset="${m.img.replace(/\.png$/, '.webp')}" />
+          <img class="art-img" src="${m.img}" alt="" width="900" height="900" decoding="async" style="object-position:${m.pos || '50% 35%'}" />
+        </picture>
         <span class="big">${esc(m.art)}</span>
       </div>
       <div class="preview-body">
